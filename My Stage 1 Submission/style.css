@@ -1,0 +1,31 @@
+.title {
+	background-color:Green;
+	color:white;
+	font-size:50px;
+	}
+.description {
+	max-width:900px;
+	margin-left: 30px;}
+.image {
+	margin-left: 30px;
+	max-width:270px;}
+.app {
+	display:flex;}
+p {
+	font-family: "Lucida Console", Lucida, Monospace;
+	font-size: 16px;
+	text-indent: 20px;
+	border-spacing: 15px; }
+.TOC {
+	min-width:270px;
+	max-width:270px;
+	min-height:300px;
+	max-height: 300px;
+	text-indent: 20px;
+	border-style:solid;
+	border-width:medium;
+	border-color:green;}
+.the_internet {
+	max-width:60px;
+	max-height:60px; 
+}
